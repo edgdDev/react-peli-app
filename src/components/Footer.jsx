@@ -11,7 +11,7 @@ export const Footer = () => {
             component='p'
             variant='subtitle1'
         >
-            Esta Aplicación fue realizada por: {'<Elvin D. Guzman />'}
+            Esta Aplicación fue realizada por: {'<Gina Ogando />'}
         </Typography>
     </Box>
   )
